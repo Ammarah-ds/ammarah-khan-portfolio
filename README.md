@@ -59,7 +59,7 @@ ammarah-khan-portfolio/
 ## 📬 Connect With Me
 
 - GitHub: [Ammarah-ds](https://github.com/Ammarah-ds)
-- Portfolio: [Live Website](https://ammarah-khan-portfolio.netlify.app)
+- Portfolio: [Ammarah-Khan-Portfolio](https://ammarah-khan-portfolio.netlify.app)
 
 ---
 
